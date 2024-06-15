@@ -1,0 +1,6 @@
+REGEDIT4
+
+[-HKEY_CURRENT_USER\Software\Classes\Interface\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}]
+[-HKEY_CURRENT_USER\Software\Classes\Interface\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\ProxyStubClsid32]
+[-HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}]
+[-HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\InprocServer32]

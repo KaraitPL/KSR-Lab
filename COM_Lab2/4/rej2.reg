@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classe\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}]
+@="klasa2"
+[HKEY_CURRENT_USER\Software\Classe\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\LocalServer32]
+@="Dysk:\\Bezwzględna\\ścieżka\\do\\aplikacji\\server2.exe"
+"ServerExecutable"="Dysk:\\Bezwzględna\\ścieżka\\do\\aplikacji\\server2.exe"

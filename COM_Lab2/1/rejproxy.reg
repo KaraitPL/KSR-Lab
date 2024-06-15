@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classes\Interface\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}]
+@="Klasa"
+[HKEY_CURRENT_USER\Software\Classes\Interface\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\ProxyStubClsid32]
+@="{CBFD5E50-CE58-49EB-99DB-A81BC87835DD}"
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}]
+@="PSFactoryBuffer"
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\InprocServer32]
+@="Dysk:\\Bezwzględna\\ścieżka\\do\\proxystub\\proxyStub.dll"
+"ThreadingModel"="Both"
