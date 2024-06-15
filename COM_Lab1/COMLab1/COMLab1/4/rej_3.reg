@@ -1,0 +1,9 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}]
+@="Klasa3"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\InProcServer32]
+@="Dysk:\\Bezwzglêdna\\œcie¿ka\\do\\biblioteki\\klasa.dll"
+"ThreadingModel"="Both"
+
