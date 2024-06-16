@@ -1,0 +1,5 @@
+REGEDIT4
+
+[-HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\InProcServer32\ThreadingModel]
+[-HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\InProcServer32]
+[-HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}]
